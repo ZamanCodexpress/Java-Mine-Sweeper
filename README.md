@@ -71,9 +71,6 @@ All logic runs in-memory, making the app lightweight, fast, and easy to run on a
    ```bash
    java App
    ```
-
-> No build tools, frameworks, or external libraries required.
-
 ---
 
 ## Controls
